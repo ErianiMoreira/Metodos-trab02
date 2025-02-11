@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1739129064 source:c:\users\ems17\onedrive\documentos\2024-02\metodos-trab02\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	<vector>
+	<algorithm>
+	<queue>
+	<tuple>
+	"header.h"
+	<unordered_set>
+
+1739129299 c:\users\ems17\onedrive\documentos\2024-02\metodos-trab02\header.h
+

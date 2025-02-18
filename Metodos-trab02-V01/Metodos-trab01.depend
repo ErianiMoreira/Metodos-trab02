@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1736468460 source:c:\users\ems17\onedrive\Área de trabalho\2024-02\metodos-trab01\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"header.h"
+
+1736468472 c:\users\ems17\onedrive\Área de trabalho\2024-02\metodos-trab01\header.h
+
+1738429601 source:c:\users\ems17\onedrive\documentos\2024-02\metodos-trab01\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"header.h"
+
+1738437617 c:\users\ems17\onedrive\documentos\2024-02\metodos-trab01\header.h
+
+1738024463 source:c:\users\ems17\onedrive\Área de trabalho\metodos-trab01\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"header.h"
+
+1738024426 c:\users\ems17\onedrive\Área de trabalho\metodos-trab01\header.h
+
+1738417731 source:c:\users\ems17\onedrive\documentos\2024-02\metodos-trab01-v8\metodos-trab01-v8\metodos-trab01\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	"header.h"
+
+1738418374 c:\users\ems17\onedrive\documentos\2024-02\metodos-trab01-v8\metodos-trab01-v8\metodos-trab01\header.h
+
+1739838149 source:c:\users\pedro vitor\documents\faculdade\metodos de otimização\trab_01-eriani-pedrovitor\trab_01-eriani-pedrovitor\metodos-trab01\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<climits>
+	<unordered_map>
+	"header.h"
+
+1739836716 c:\users\pedro vitor\documents\faculdade\metodos de otimização\trab_01-eriani-pedrovitor\trab_01-eriani-pedrovitor\metodos-trab01\header.h
+
+1739838149 source:c:\users\pedro vitor\documents\faculdade\metodos de otimização\trab_02-eriani-pedrovitor\metodos-trab02-v01\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<float.h>
+	<time.h>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<climits>
+	<unordered_map>
+	"header.h"
+
+1739836716 c:\users\pedro vitor\documents\faculdade\metodos de otimização\trab_02-eriani-pedrovitor\metodos-trab02-v01\header.h
+
